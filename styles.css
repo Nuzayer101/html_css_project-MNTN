@@ -268,7 +268,8 @@ footer .right ul {
   }
   .sec-left h2 {
     font-size: 3rem;
-    line-height: 3.5rem;
+    line-height: 6rem;
+    margin-top: 2rem;
   }
   .sec-right img {
     width: 80%;
